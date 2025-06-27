@@ -29,18 +29,23 @@ Step-by-Step Instructions to Activate Your UnitedHealthcare Account
 Here’s how to get started:
 
 1. **Visit the Website**  
+
    Open your browser and go to: https://activate.uhc.com
 
 2. **Enter Your Information**  
+
    Provide your insurance ID number, date of birth, and ZIP code. This helps verify your identity.
 
 3. **Create Your Username and Password**  
+
    Choose secure login credentials that you’ll remember.
 
 4. **Set Up Security Preferences**  
+
    You might be prompted to set up security questions or enable two-factor authentication.
 
 5. **Explore Your Account**  
+
    Once logged in, you can review your coverage, print your ID card, find providers, and much more.
 
 Tips for a Smooth Activation
@@ -65,15 +70,19 @@ FAQs
 ----
 
 1. **Do I need to activate my account if I already have a UHC member ID card?**  
+
    Yes. Even if you have your physical ID card, activating your account at activate.uhc.com gives you access to your digital card and other online tools and resources.
 
 2. **How long does it take to activate my UnitedHealthcare account?**  
+
    The activation process usually takes just a few minutes if you have all the required information ready.
 
 3. **Can family members on the same plan create their own accounts?**  
+
    Yes, eligible dependents (typically 18 or older) can register for their own online accounts using their individual member ID numbers.
 
 4. **Is there a mobile app I can use after activation?**  
+
    Yes. Once you've activated your account, download the UnitedHealthcare app to manage your plan on the go.
 
 Final Thoughts
